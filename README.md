@@ -4,6 +4,10 @@
 
 ## Screenshots
 
+![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/extended-class.png)
+
+![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png)
+
 ## Install
 
 ---
