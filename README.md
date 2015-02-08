@@ -6,6 +6,8 @@
 
 ![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/extended-class.png)
 
+**JSX Components:**
+
 ![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png)
 
 ## Install
