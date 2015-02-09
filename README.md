@@ -16,6 +16,10 @@ Just copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to i
 
 ![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png)
 
+## References
+
+Inspired by [Base16 Ocean Dark Theme](https://github.com/carloe/spacegray-base16-ocean-dark) which was my long time favorite.
+
 ---
 
 **MIT Licensed**
