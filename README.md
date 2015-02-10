@@ -18,7 +18,7 @@ Just copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to i
 
 ## References
 
-Inspired by [Base16 Ocean Dark Theme](https://github.com/carloe/spacegray-base16-ocean-dark) which was my long time favorite.
+Theme is inspired by [Base16 Ocean Dark Theme](https://github.com/carloe/spacegray-base16-ocean-dark) which was my long time favorite and based on [Oceanic Eighties Color Scheme](https://github.com/memco/Oceanic-tmTheme).
 
 ---
 
