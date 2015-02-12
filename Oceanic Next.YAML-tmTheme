@@ -39,7 +39,7 @@ settings:
 
 - name: Operator, Misc
   scope: keyword.operator, constant.other.color, punctuation, meta.tag,
-    punctuation.definition.tag, punctuation.definition.tag.*.*, punctuation.separator.inheritance.php,
+    punctuation.definition.tag, punctuation.separator.inheritance.php,
     punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html
   settings:
     foreground: '#5FB3B3'
