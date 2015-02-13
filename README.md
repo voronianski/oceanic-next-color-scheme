@@ -6,7 +6,7 @@
 
 ## Install
 
-Just copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS). Then select it from `Preferences` `->` `Color Scheme` `->` `User`.
+Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) or just manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS). Then select it from `Preferences` `->` `Color Scheme` `->` `User`.
 
 ## Screenshots
 
