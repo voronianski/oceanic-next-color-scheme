@@ -1,6 +1,6 @@
 # Oceanic Next Theme
 
-> Colorful Sublime Text 2/3 theme optimized for [6to5-sublime](https://github.com/6to5/6to5-sublime) JavaScript syntax highlighter.
+> Colorful Sublime Text 2/3 theme optimized for [babel-sublime](https://github.com/babel/babel-sublime) (also known as **6to5-sublime**) JavaScript syntax highlighter.
 
 [<img src="https://dl.dropboxusercontent.com/u/100463011/oceanic-next-theme.png" width="350" />](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
 
