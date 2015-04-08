@@ -13,11 +13,9 @@ Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%
 _Oceanic Next_ was also ported to:
 
 - [x] [Atom Editor](https://atom.io/themes/oceanic-next) (thanks to [Steve Lombardi](https://github.com/smlombardi)).
+- [x] [Vim](https://github.com/yosiat/oceanic-next-vim) (thanks to [Yosi Attias](https://github.com/yosiat))
 
-Any volunteers to help with another environments?
-
-- [ ] Vim - https://github.com/voronianski/oceanic-next-theme/issues/10
-- [ ] iTerm2 - https://github.com/voronianski/oceanic-next-theme/issues/8
+Any volunteers to help with another environments?! Please check [issues](https://github.com/voronianski/oceanic-next-theme/issues) for requested ones.
 
 ## Screenshots
 
