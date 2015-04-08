@@ -10,7 +10,14 @@ Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%
 
 ### Other Editors
 
-_Oceanic Next_ was also ported to [Atom Editor](https://atom.io/themes/oceanic-next) (special thanks to [Steve Lombardi](https://github.com/smlombardi)).
+_Oceanic Next_ was also ported to:
+
+- [x] [Atom Editor](https://atom.io/themes/oceanic-next) (thanks to [Steve Lombardi](https://github.com/smlombardi)).
+
+Any volunteers to help with another environments?
+
+- [ ] Vim - https://github.com/voronianski/oceanic-next-theme/issues/10
+- [ ] iTerm2 - https://github.com/voronianski/oceanic-next-theme/issues/8
 
 ## Screenshots
 
