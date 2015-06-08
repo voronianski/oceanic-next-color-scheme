@@ -14,12 +14,13 @@ _Oceanic Next_ was also ported to:
 
 - [x] [Atom Editor](https://atom.io/themes/oceanic-next) (thanks to [Steve Lombardi](https://github.com/smlombardi)).
 - [x] [Vim](https://github.com/yosiat/oceanic-next-vim) (thanks to [Yosi Attias](https://github.com/yosiat))
+- [x] [XCode](https://github.com/dmcrodrigues/Oceanic-Next-Xcode-Theme) (thanks to [David Rodrigues](https://github.com/dmcrodrigues))
 
-Any volunteers to help with another environments?
+_Any volunteers to help with another environments?_
 
 ## Color Palette
 
-There is a list of colors used, check it before porting the color scheme to another environments.
+There is a list of colors used in _Oceanic Next_. Check it before porting the color scheme to another environments.
 
 <img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/colors.png" width="350" />
 
