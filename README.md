@@ -19,6 +19,8 @@ Any volunteers to help with another environments?! Please check [issues](https:/
 
 ### Color Palette
 
+<img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/colors.png" width="350" />
+
 ```bash
 base 00: #1B2B34
 base 01: #343D46
