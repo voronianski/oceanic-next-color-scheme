@@ -17,7 +17,7 @@ _Oceanic Next_ was also ported to:
 
 Any volunteers to help with another environments?
 
-### Color Palette
+## Color Palette
 
 There is a list of colors used, check it before porting the color scheme to another environments.
 
