@@ -19,7 +19,7 @@ settings:
     caret: '#c0c5ce'
     foreground: '#CDD3DE'
     invisibles: '#65737e'
-    lineHighlight: '#65737e55'
+    lineHighlight: '#65737e'
     selection: '#4f5b66'
 
 - name: Comments
