@@ -19,7 +19,7 @@ settings:
     caret: '#c0c5ce'
     foreground: '#CDD3DE'
     invisibles: '#65737e'
-    lineHighlight: '#65737e'
+    lineHighlight: '#65737e55'
     selection: '#4f5b66'
 
 - name: Comments
@@ -133,3 +133,13 @@ settings:
   scope: '*url*, *link*, *uri*'
   settings:
     fontStyle: underline
+
+- name: Search Results Nums
+  scope: constant.numeric.line-number.find-in-files - match
+  settings:
+    foreground: '#AB7967'
+
+- name: Search Results Lines
+  scope: entity.name.filename.find-in-files
+  settings:
+    foreground: '#99C794'
