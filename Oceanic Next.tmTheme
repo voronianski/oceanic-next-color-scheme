@@ -134,9 +134,11 @@
 			<key>name</key>
 			<string>String, Symbols, Inherited Class, Markup Heading</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter</string>
+			<string>string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
 				<key>foreground</key>
 				<string>#99C794</string>
 			</dict>
@@ -308,6 +310,19 @@
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#6699CC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ES7 Bind Operator</string>
+			<key>scope</key>
+			<string>source.js constant.other.object.key.js string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#EC5F67</string>
 			</dict>
 		</dict>
 	</array>

@@ -67,10 +67,11 @@ settings:
     foreground: '#F99157'
 
 - name: String, Symbols, Inherited Class, Markup Heading
-  scope: string, constant.other.symbol, entity.other.inherited-class, markup.heading,
-    markup.inserted.git_gutter
+  scope: string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading,
+    markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js
   settings:
     foreground: '#99C794'
+    fontStyle: normal
 
 - name: Class, Support
   scope: entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php,
@@ -148,4 +149,10 @@ settings:
   scope: tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js
   settings:
     foreground: '#6699CC'
+    fontStyle: italic
+
+- name: ES7 Bind Operator
+  scope: source.js constant.other.object.key.js string.unquoted.label.js
+  settings:
+    foreground: '#EC5F67'
     fontStyle: italic
