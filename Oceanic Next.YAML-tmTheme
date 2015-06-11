@@ -143,3 +143,9 @@ settings:
   scope: entity.name.filename.find-in-files
   settings:
     foreground: '#99C794'
+
+- name: Decorators
+  scope: tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js
+  settings:
+    foreground: '#6699CC'
+    fontStyle: italic
