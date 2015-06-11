@@ -1,7 +1,7 @@
 # Oceanic Next Theme
 
-[![](https://img.shields.io/github/tag/voronianski/oceanic-next-theme.svg)](https://github.com/voronianski/oceanic-next-theme/tags)
-[![](https://packagecontrol.herokuapp.com/downloads/Oceanic%20Next%20Color%20Scheme.svg?color=50C32E)](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
+[![GitHub Tags](https://img.shields.io/github/tag/voronianski/oceanic-next-theme.svg)](https://github.com/voronianski/oceanic-next-theme/tags)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Oceanic%20Next%20Color%20Scheme.svg?color=50C32E)](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 
 > Colorful Sublime Text 2/3 color scheme optimized for [babel-sublime](https://github.com/babel/babel-sublime) (also known as **6to5-sublime**) JavaScript syntax highlighter.
 
