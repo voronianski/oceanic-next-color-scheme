@@ -1,4 +1,4 @@
-# Oceanic Next Theme
+# Oceanic Next Color Scheme
 
 [![GitHub Tags](https://img.shields.io/github/tag/voronianski/oceanic-next-theme.svg)](https://github.com/voronianski/oceanic-next-theme/tags)
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/Oceanic%20Next%20Color%20Scheme.svg?color=50C32E)](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
@@ -58,6 +58,10 @@ base 0F: #AB7967
 ## References
 
 Theme is inspired by [Base16 Ocean Dark Theme](https://github.com/carloe/spacegray-base16-ocean-dark) which was my long time favorite and based on [Oceanic Eighties Color Scheme](https://github.com/memco/Oceanic-tmTheme).
+
+## Contributing
+
+If you'd like to add some rules and styles to the theme please do it inside `.YAML-tmTheme` file. Then `.tmTheme` xml can be generated with such tool as [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev) for Sublime.
 
 ---
 
