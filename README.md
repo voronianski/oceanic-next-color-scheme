@@ -55,6 +55,10 @@ base 0F: #AB7967
 
 ![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png)
 
+**JSON file:**
+
+![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/json-keys.png)
+
 ## Companion Sublime UI Themes
 
 - [Broceanic](https://github.com/kenwheeler/broceanic-theme) by [Ken Wheeler](https://github.com/kenwheeler)
