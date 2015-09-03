@@ -21,7 +21,8 @@ _Oceanic Next_ was also ported to:
 - [x] [iTerm2](https://github.com/mhartington/oceanic-next-iterm) (thanks to [Mike Hartington](https://github.com/mhartington))
 - [x] [gnome-terminal](https://github.com/denysdovhan/oceanic-next-gnome-terminal) (thanks to [Denys Dovhan](https://github.com/denysdovhan))
 - [x] [Eclipse](http://eclipsecolorthemes.org/?view=theme&id=35308) (thanks to [John Louderback](https://github.com/JohnLouderback))
-- [x] [JetBrains](https://github.com/minwe/oceanic-next-jetbrains) (thanks to [Minwe LUO](https://github.com/minwe))
+- [x] [JetBrains Color Scheme](https://github.com/minwe/oceanic-next-jetbrains) (thanks to [Minwe LUO](https://github.com/minwe))
+- [x] [JetBrains Theme](https://github.com/rofrol/oceanic-next-jetbrains-theme) (thanks to [Roman Frołow](https://github.com/rofrol))
 
 _Any volunteers to help with another environments?_
 
