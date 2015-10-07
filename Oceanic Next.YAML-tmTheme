@@ -97,7 +97,7 @@ settings:
     foreground: '#D8DEE9'
 
 - name: meta.method.js
-  scope: meta.method.js entity.name.function.js
+  scope: meta.method.js entity.name.function.js, variable.function.constructor
   settings:
     foreground: '#D8DEE9'
 
