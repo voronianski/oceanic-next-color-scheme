@@ -40,7 +40,8 @@ settings:
 - name: Operator, Misc
   scope: keyword.operator, constant.other.color, punctuation, meta.tag,
     punctuation.definition.tag, punctuation.separator.inheritance.php,
-    punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html
+    punctuation.definition.tag.html, punctuation.definition.tag.begin.html,
+    punctuation.definition.tag.end.html, punctuation.section.embedded
   settings:
     foreground: '#5FB3B3'
 
@@ -50,7 +51,7 @@ settings:
     foreground: '#EB606B'
 
 - name: Function, Special Method, Block Level
-  scope: entity.name.function, meta.function-call, support.function, keyword.other.special-method,
+  scope: entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method,
     meta.block-level
   settings:
     foreground: '#6699CC'
@@ -62,7 +63,7 @@ settings:
 
 - name: Number, Constant, Function Argument, Tag Attribute, Embedded
   scope: constant.numeric, constant.language, support.constant, constant.character,
-    variable.parameter, punctuation.section.embedded, keyword.other.unit
+    variable.parameter, keyword.other.unit
   settings:
     foreground: '#F99157'
 
@@ -96,9 +97,9 @@ settings:
     foreground: '#D8DEE9'
 
 - name: meta.method.js
-  scope: meta.method.js
+  scope: meta.method.js entity.name.function.js
   settings:
-    foreground: '#fff'
+    foreground: '#D8DEE9'
 
 - name: Attributes
   scope: entity.other.attribute-name

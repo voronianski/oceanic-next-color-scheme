@@ -79,7 +79,7 @@
 			<key>name</key>
 			<string>Operator, Misc</string>
 			<key>scope</key>
-			<string>keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html</string>
+			<string>keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -101,7 +101,7 @@
 			<key>name</key>
 			<string>Function, Special Method, Block Level</string>
 			<key>scope</key>
-			<string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
+			<string>entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -123,7 +123,7 @@
 			<key>name</key>
 			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
+			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -193,11 +193,11 @@
 			<key>name</key>
 			<string>meta.method.js</string>
 			<key>scope</key>
-			<string>meta.method.js</string>
+			<string>meta.method.js entity.name.function.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fff</string>
+				<string>#D8DEE9</string>
 			</dict>
 		</dict>
 		<dict>
