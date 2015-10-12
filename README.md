@@ -16,7 +16,7 @@ Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%
 _Oceanic Next_ was also ported to:
 
 - [x] [Atom Editor](https://atom.io/themes/oceanic-next) (thanks to [Steve Lombardi](https://github.com/smlombardi)).
-- [x] [Vim](https://github.com/yosiat/oceanic-next-vim) (thanks to [Yosi Attias](https://github.com/yosiat))
+- [x] [Vim](https://github.com/chriskempson/base16-builder) (thanks to [Chris Kempson](https://github.com/chriskempson))
 - [x] [XCode](https://github.com/dmcrodrigues/Oceanic-Next-Xcode-Theme) (thanks to [David Rodrigues](https://github.com/dmcrodrigues))
 - [x] [iTerm2](https://github.com/mhartington/oceanic-next-iterm) (thanks to [Mike Hartington](https://github.com/mhartington))
 - [x] [gnome-terminal](https://github.com/denysdovhan/oceanic-next-gnome-terminal) (thanks to [Denys Dovhan](https://github.com/denysdovhan))
