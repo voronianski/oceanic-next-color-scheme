@@ -11,6 +11,19 @@
 
 Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) or just manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS). Then select it from `Preferences` `->` `Color Scheme` `->` `User`.
 
+### How to Activate UI Theme
+
+To activate the UI theme and color scheme adding the following settings to your sublime user preferences file. The user preferences file can be found using the menu item Sublime Text -> Preferences -> Settings - User (⌘, on Mac).
+
+**Note: Don't forget to restart Sublime Text after activating the theme.**
+
+```json
+{
+  "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+  "theme": "Oceanic Next.sublime-theme"
+}
+```
+
 ### Other Editors
 
 _Oceanic Next_ was also ported to:
