@@ -68,7 +68,7 @@
 			<key>name</key>
 			<string>Keyword, Storage</string>
 			<key>scope</key>
-			<string>keyword, storage.type</string>
+			<string>keyword, storage.type, storage.modifier</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -193,7 +193,7 @@
 			<key>name</key>
 			<string>meta.method.js</string>
 			<key>scope</key>
-			<string>meta.method.js entity.name.function.js, variable.function.constructor</string>
+			<string>meta.class-method.js entity.name.function.js, variable.function.constructor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

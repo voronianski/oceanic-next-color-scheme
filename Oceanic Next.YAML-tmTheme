@@ -33,7 +33,7 @@ settings:
     foreground: '#CDD3DE'
 
 - name: Keyword, Storage
-  scope: keyword, storage.type
+  scope: keyword, storage.type, storage.modifier
   settings:
     foreground: '#C594C5'
 
@@ -98,7 +98,7 @@ settings:
     foreground: '#D8DEE9'
 
 - name: meta.method.js
-  scope: meta.method.js entity.name.function.js, variable.function.constructor
+  scope: meta.class-method.js entity.name.function.js, variable.function.constructor
   settings:
     foreground: '#D8DEE9'
 
