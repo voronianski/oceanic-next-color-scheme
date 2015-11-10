@@ -67,7 +67,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/close.png",
         "layer0.opacity": 0,
         "layer0.tint": [101, 115, 126] // 03
     },
@@ -79,7 +79,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/close.png",
         "layer0.opacity": 1
     },
     {
@@ -98,7 +98,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/circle.png",
         "layer0.tint": [251, 201, 88], // 0A
         "layer0.opacity": 1
     },
@@ -112,7 +112,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/close.png",
         "attributes": ["hover"],
         "layer0.opacity": 1,
         "layer0.tint": [238, 93, 100] // 08
@@ -174,22 +174,22 @@
     // Tab Labels font size
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_small"],
+        "settings": ["oceanicnext_tabs_font_small"],
         "font.size": 10.0
     },
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_normal"],
+        "settings": ["oceanicnext_tabs_font_normal"],
         "font.size": 11.0
     },
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_large"],
+        "settings": ["oceanicnext_tabs_font_large"],
         "font.size": 12.0
     },
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_xlarge"],
+        "settings": ["oceanicnext_tabs_font_xlarge"],
         "font.size": 14.0
     },
 
@@ -199,7 +199,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-closed.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/folder-closed.png",
         "layer0.tint": [167, 173, 186], // 04
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0,
@@ -213,7 +213,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Oceanic Next Color Scheme/images/folder-open.png"
     },
     {
         "class": "fold_button_control",
@@ -480,27 +480,27 @@
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_xsmall"],
+        "settings": ["oceanicnext_sidebar_tree_xsmall"],
         "row_padding": [8, 0]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_small"],
+        "settings": ["oceanicnext_sidebar_tree_small"],
         "row_padding": [8, 2]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_normal"],
+        "settings": ["oceanicnext_sidebar_tree_normal"],
         "row_padding": [8, 4]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_large"],
+        "settings": ["oceanicnext_sidebar_tree_large"],
         "row_padding": [8, 6]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_xlarge"],
+        "settings": ["oceanicnext_sidebar_tree_xlarge"],
         "row_padding": [8, 8]
     },
     // Sidebar heading selected
@@ -516,22 +516,22 @@
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_small"],
+        "settings": ["oceanicnext_sidebar_font_small"],
         "font.size": 10.0
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_normal"],
+        "settings": ["oceanicnext_sidebar_font_normal"],
         "font.size": 11.0
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_large"],
+        "settings": ["oceanicnext_sidebar_font_large"],
         "font.size": 12.0
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_xlarge"],
+        "settings": ["oceanicnext_sidebar_font_xlarge"],
         "font.size": 14.0
     },
     // Sidebar folder entry
@@ -565,7 +565,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/close.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": [101, 115, 126], // 03
@@ -585,7 +585,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/circle.png",
         "layer0.opacity": 1,
         "layer0.tint": [251, 201, 88] // 0A
     },
@@ -593,7 +593,7 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png"
+        "layer0.texture": "Oceanic Next Color Scheme/images/circle.png"
     },
     // Sidebar file close hover
     {
@@ -605,7 +605,7 @@
         "class": "close_button",
         "attributes": ["dirty", "hover"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/close.png",
         "layer0.tint": [238, 93, 100] // 08
     },
 
@@ -617,7 +617,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8,8],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-closed.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/folder-closed.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
@@ -635,7 +635,7 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Oceanic Next Color Scheme/images/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -646,7 +646,7 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Oceanic Next Color Scheme/images/folder-open.png"
     },
 
 //
@@ -872,7 +872,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Spacegray/Spacegray/regex.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/regex.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -886,7 +886,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Spacegray/Spacegray/casesens.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/casesens.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -899,7 +899,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Spacegray/Spacegray/wholeword.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/wholeword.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -917,7 +917,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Spacegray/Spacegray/context.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/context.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -930,7 +930,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Spacegray/Spacegray/buffer.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/buffer.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -947,7 +947,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Spacegray/Spacegray/reverse.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/reverse.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -960,7 +960,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Spacegray/Spacegray/wrap.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/wrap.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -973,7 +973,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Spacegray/Spacegray/selection.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/selection.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -991,7 +991,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Spacegray/Spacegray/lock.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/lock.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1009,7 +1009,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Spacegray/Spacegray/highlight.png",
+        "layer0.texture": "Oceanic Next Color Scheme/images/highlight.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1025,7 +1025,7 @@
 //
     {
         "class": "disclosure_button_control",
-        "settings": ["spacegray_color_expanded_folder"],
+        "settings": ["oceanicnext_color_expanded_folder"],
         "attributes": ["expanded"],
         "layer0.tint": [254, 204, 102] // 0A
     },
@@ -1037,27 +1037,27 @@
     // Tab set
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_auto_width"],
+        "settings": ["oceanicnext_tabs_auto_width"],
         "tab_width": 0
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_small"],
+        "settings": ["oceanicnext_tabs_small"],
         "tab_height": 22
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_normal"],
+        "settings": ["oceanicnext_tabs_normal"],
         "tab_height": 28
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_large"],
+        "settings": ["oceanicnext_tabs_large"],
         "tab_height": 34
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_xlarge"],
+        "settings": ["oceanicnext_tabs_xlarge"],
         "tab_height": 40
     },
 
