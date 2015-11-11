@@ -39,6 +39,12 @@ _Oceanic Next_ was also ported to:
 
 _Any volunteers to help with another environments?_
 
+### Similar Schemes
+
+_Oceanic Next_ inspired another schemes which extend or change some of its' aspects:
+
+- [Yoceanic Next](https://github.com/cameronbourke/yoceanic-next-syntax) by [Cameron Bourke](https://github.com/cameronbourke) is available only for [Atom](https://atom.io/themes/yoceanic-next-syntax) editor
+
 ## Color Palette
 
 There is a list of colors used in _Oceanic Next_. Check it before porting the color scheme to another environments.
