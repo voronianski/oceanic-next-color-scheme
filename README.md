@@ -37,6 +37,8 @@ _Oceanic Next_ was also ported to:
 - [x] [JetBrains Color Scheme](https://github.com/minwe/oceanic-next-jetbrains) (thanks to [Minwe LUO](https://github.com/minwe))
 - [x] [JetBrains Theme](https://github.com/rofrol/oceanic-next-jetbrains-theme) (thanks to [Roman Frołow](https://github.com/rofrol))
 
+You may also look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next) - This project generates the Oceanic Next color scheme for a variety of text editors using base16-builder.
+
 _Any volunteers to help with another environments?_
 
 ### Similar Schemes
