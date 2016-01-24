@@ -30,12 +30,14 @@ _Oceanic Next_ was also ported to:
 
 - [x] [Atom Editor](https://atom.io/themes/oceanic-next) (thanks to [Steve Lombardi](https://github.com/smlombardi)).
 - [x] [Vim](https://github.com/chriskempson/base16-builder) (thanks to [Chris Kempson](https://github.com/chriskempson))
+- [x] [NeoVim](https://github.com/mhartington/oceanic-next) (thanks to [Mike Hartington](https://github.com/mhartington))
 - [x] [XCode](https://github.com/dmcrodrigues/Oceanic-Next-Xcode-Theme) (thanks to [David Rodrigues](https://github.com/dmcrodrigues))
 - [x] [iTerm2](https://github.com/mhartington/oceanic-next-iterm) (thanks to [Mike Hartington](https://github.com/mhartington))
 - [x] [gnome-terminal](https://github.com/denysdovhan/oceanic-next-gnome-terminal) (thanks to [Denys Dovhan](https://github.com/denysdovhan))
 - [x] [Eclipse](http://eclipsecolorthemes.org/?view=theme&id=35308) (thanks to [John Louderback](https://github.com/JohnLouderback))
 - [x] [JetBrains Color Scheme](https://github.com/minwe/oceanic-next-jetbrains) (thanks to [Minwe LUO](https://github.com/minwe))
 - [x] [JetBrains Theme](https://github.com/rofrol/oceanic-next-jetbrains-theme) (thanks to [Roman Frołow](https://github.com/rofrol))
+- [x] [VS Code](https://marketplace.visualstudio.com/items/mhartington.Oceanic-Next) (thanks to [Mike Hartington](https://github.com/mhartington))
 
 You may also look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next) - This project generates the Oceanic Next color scheme for a variety of text editors using base16-builder.
 
