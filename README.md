@@ -37,7 +37,7 @@ _Oceanic Next_ was also ported to:
 - [x] [Eclipse](http://eclipsecolorthemes.org/?view=theme&id=35308) (thanks to [John Louderback](https://github.com/JohnLouderback))
 - [x] [JetBrains Color Scheme](https://github.com/minwe/oceanic-next-jetbrains) (thanks to [Minwe LUO](https://github.com/minwe))
 - [x] [JetBrains Theme](https://github.com/rofrol/oceanic-next-jetbrains-theme) (thanks to [Roman Frołow](https://github.com/rofrol))
-- [x] [VS Code](https://github.com/minwe/oceanic-next-jetbrains) (thanks to [Mike Hartington](https://github.com/mhartington))
+- [x] [VS Code](https://marketplace.visualstudio.com/items/mhartington.Oceanic-Next) (thanks to [Mike Hartington](https://github.com/mhartington))
 
 You may also look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next) - This project generates the Oceanic Next color scheme for a variety of text editors using base16-builder.
 
