@@ -158,3 +158,8 @@ settings:
   settings:
     foreground: '#EC5F67'
     fontStyle: italic
+
+- name: Italic HTML attribute names
+  scope: entity.other.attribute-name.html, entity.other.attribute-name.event.html, entity.other.attribute-name.id.html, entity.other.attribute-name.tag.jade, constant.other.symbol.ruby
+  settings:
+    fontStyle: italic
