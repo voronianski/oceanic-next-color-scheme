@@ -28,18 +28,24 @@
 		<dict>
 			<key>settings</key>
 			<dict>
+				<key>activeGuide</key>
+				<string>#FAC863</string>
 				<key>background</key>
 				<string>#1B2B34</string>
 				<key>caret</key>
 				<string>#c0c5ce</string>
 				<key>foreground</key>
 				<string>#CDD3DE</string>
+				<key>guide</key>
+				<string>#c0c5ce</string>
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>lineHighlight</key>
 				<string>#65737e55</string>
 				<key>selection</key>
 				<string>#4f5b66</string>
+				<key>stackGuide</key>
+				<string>#65737E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -323,6 +329,17 @@
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#EC5F67</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Italic HTML attribute names</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.html, entity.other.attribute-name.event.html, entity.other.attribute-name.id.html, entity.other.attribute-name.tag.jade, constant.other.symbol.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 	</array>
