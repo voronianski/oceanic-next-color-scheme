@@ -21,6 +21,9 @@ settings:
     invisibles: '#65737e'
     lineHighlight: '#65737e55'
     selection: '#4f5b66'
+    guide: '#c0c5ce'
+    activeGuide: '#FAC863'
+    stackGuide: '#65737E'
 
 - name: Comments
   scope: comment, punctuation.definition.comment
