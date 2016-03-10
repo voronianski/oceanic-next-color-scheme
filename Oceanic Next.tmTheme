@@ -29,7 +29,7 @@
 			<key>settings</key>
 			<dict>
 				<key>activeGuide</key>
-				<string>#FAC863</string>
+				<string>#FBC95A</string>
 				<key>background</key>
 				<string>#1B2B34</string>
 				<key>caret</key>
@@ -37,7 +37,7 @@
 				<key>foreground</key>
 				<string>#CDD3DE</string>
 				<key>guide</key>
-				<string>#c0c5ce</string>
+				<string>#65737F</string>
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>lineHighlight</key>
@@ -45,7 +45,7 @@
 				<key>selection</key>
 				<string>#4f5b66</string>
 				<key>stackGuide</key>
-				<string>#65737E</string>
+				<string>#A7ADBB</string>
 			</dict>
 		</dict>
 		<dict>
