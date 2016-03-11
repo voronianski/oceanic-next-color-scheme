@@ -23,7 +23,7 @@ settings:
     selection: '#4f5b66'
     guide: '#65737F'
     activeGuide: '#FBC95A'
-    stackGuide: '#A7ADBB'
+    stackGuide: '#4F5B66'
 
 - name: Comments
   scope: comment, punctuation.definition.comment
