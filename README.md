@@ -45,7 +45,7 @@ _Any volunteers to help with another environments?_
 
 ### Similar Schemes
 
-_Oceanic Next_ inspired another schemes which extend syntax or change some of its' aspects:
+_Oceanic Next_ inspired another schemes which extend syntax or change some of its aspects:
 
 - [Yoceanic Next](https://github.com/cameronbourke/yoceanic-next-syntax) by [Cameron Bourke](https://github.com/cameronbourke) is available only for [Atom](https://atom.io/themes/yoceanic-next-syntax) editor
 
