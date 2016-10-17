@@ -39,7 +39,8 @@ _Oceanic Next_ was also ported to:
 - [x] [JetBrains Theme](https://github.com/rofrol/oceanic-next-jetbrains-theme) (thanks to [Roman Frołow](https://github.com/rofrol))
 - [x] [VS Code](https://marketplace.visualstudio.com/items/mhartington.Oceanic-Next) (thanks to [Mike Hartington](https://github.com/mhartington))
 - [x] [Komodo IDE/Edit](https://github.com/Defman21/oceanicnext-komodo) (thanks to [Sergey Kislyakov](https://github.com/Defman21))
-- [x] [fish shell (VI keybinding)](https://github.com/Jim-Zenn/fish-theme-oceanic-next-vi) (thanks to [Jim Zenn](https://github.com/Jim-Zenn)
+- [x] [fish shell (VI keybinding)](https://github.com/Jim-Zenn/fish-theme-oceanic-next-vi) (thanks to [Jim Zenn](https://github.com/Jim-Zenn))
+- [x] [Emacs](https://github.com/terry3/oceanic-theme) (thanks to [Tengfei Guo](https://github.com/terry3))
 
 You may also look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next) - This project generates the Oceanic Next color scheme for a variety of text editors using base16-builder.
 
