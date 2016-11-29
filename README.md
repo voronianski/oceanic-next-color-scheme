@@ -52,6 +52,8 @@ _Any volunteers to help with another environments?_
 _Oceanic Next_ inspired another schemes which extend syntax or change some of its aspects:
 
 - [Yoceanic Next](https://github.com/cameronbourke/yoceanic-next-syntax) by [Cameron Bourke](https://github.com/cameronbourke) is available only for [Atom](https://atom.io/themes/yoceanic-next-syntax) editor
+- [Oceanic Next Purple](https://github.com/ergenekonyigit/oceanic-next-purple-syntax) by [Ergenekon Yigit](https://github.com/ergenekonyigit) is available only for [Atom](https://atom.io/themes/oceanic-next-purple) editor
+
 
 ## Color Palette
 
