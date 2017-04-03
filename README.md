@@ -5,7 +5,8 @@
 
 > Colorful Sublime Text 2/3 color scheme optimized for [babel-sublime](https://github.com/babel/babel-sublime) (also known as **6to5-sublime**) JavaScript syntax highlighter.
 
-[<img src="https://dl.dropboxusercontent.com/u/100463011/oceanic-next-theme.png" width="350" />](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
+[![image](https://cloud.githubusercontent.com/assets/15828926/24619500/5ace50f2-18c4-11e7-9c40-7a247528f99d.png)
+](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
 
 ## Install
 
