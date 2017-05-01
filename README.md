@@ -49,6 +49,16 @@ You may also look at [base16-oceanic-next](https://github.com/wbinnssmith/base16
 
 _Any volunteers to help with another environments?_
 
+### PowerShell
+
+```powershell
+iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+scoop install concfg
+concfg import oceanicnext
+```
+
+[answer on so](http://stackoverflow.com/questions/13690223/how-can-i-launch-powershell-exe-with-the-default-colours-from-the-powershell-s/41428132#41428132)
+
 ### Similar Schemes
 
 _Oceanic Next_ inspired another schemes which extend syntax or change some of its aspects:
