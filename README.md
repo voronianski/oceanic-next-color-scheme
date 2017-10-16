@@ -57,7 +57,7 @@ _Oceanic Next_ inspired another schemes which extend syntax or change some of it
 
 - [Yoceanic Next](https://github.com/cameronbourke/yoceanic-next-syntax) by [Cameron Bourke](https://github.com/cameronbourke) is available only for [Atom](https://atom.io/themes/yoceanic-next-syntax) editor
 - [Oceanic Next Purple](https://github.com/ergenekonyigit/oceanic-next-purple-syntax) by [Ergenekon Yigit](https://github.com/ergenekonyigit) is available only for [Atom](https://atom.io/themes/oceanic-next-purple) editor
-
+- [Oceanic Plus](https://github.com/marcoms/oceanic-plus) by [Marco  Scannadinari](https://github.com/marcoms) is available only for [VS Code](https://marketplace.visualstudio.com/items?itemName=marcoms.oceanic-plus)
 
 ## Color Palette
 
