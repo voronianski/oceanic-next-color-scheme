@@ -39,7 +39,7 @@ _Oceanic Next_ was also ported to:
 - [x] [Eclipse](http://eclipsecolorthemes.org/?view=theme&id=35308) (thanks to [John Louderback](https://github.com/JohnLouderback))
 - [x] [JetBrains Color Scheme](https://github.com/minwe/oceanic-next-jetbrains) (thanks to [Minwe LUO](https://github.com/minwe))
 - [x] [JetBrains Theme](https://github.com/rofrol/oceanic-next-jetbrains-theme) (thanks to [Roman Frołow](https://github.com/rofrol))
-- [x] [VS Code](https://marketplace.visualstudio.com/items/mhartington.Oceanic-Next) (thanks to [Mike Hartington](https://github.com/mhartington))
+- [x] [VS Code](https://marketplace.visualstudio.com/items?itemName=svipben.oceanic-next-color-theme) (thanks to [Benas Svipas](https://github.com/svipben))
 - [x] [Komodo IDE/Edit](https://github.com/Defman21/oceanicnext-komodo) (thanks to [Sergey Kislyakov](https://github.com/Defman21))
 - [x] [fish shell (VI keybinding)](https://github.com/Jim-Zenn/fish-theme-oceanic-next-vi) (thanks to [Jim Zenn](https://github.com/Jim-Zenn))
 - [x] [Emacs](https://github.com/terry3/oceanic-theme) (thanks to [Tengfei Guo](https://github.com/terry3))
