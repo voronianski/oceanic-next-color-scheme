@@ -55,15 +55,14 @@ _Any volunteers to help with another environments?_
 
 ### PowerShell
 
-You can use `concfg` to install theme for Powershell. First with `iex` install `scoop`, and with `scoop` install `concfg`:
+You can use `concfg` to install theme for Powershell. First with `iex` install `scoop`, and with `scoop` install `concfg` (
+[answer on StackOverflow](http://stackoverflow.com/questions/13690223/how-can-i-launch-powershell-exe-with-the-default-colours-from-the-powershell-s/41428132#41428132)):
 
 ```powershell
 iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 scoop install concfg
 concfg import oceanicnext
 ```
-
-[answer on so](http://stackoverflow.com/questions/13690223/how-can-i-launch-powershell-exe-with-the-default-colours-from-the-powershell-s/41428132#41428132)
 
 ### Similar Schemes
 
