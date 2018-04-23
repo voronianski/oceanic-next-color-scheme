@@ -47,6 +47,7 @@ _Oceanic Next_ was also ported to:
 - [x] [Sequel Pro](https://github.com/JodusNodus/oceanic-next-sequel-pro) (thanks to [Thomas Billiet](https://github.com/JodusNodus))
 - [x] [Netbeans IDE](https://github.com/JodusNodus/oceanic-next-netbeans) (thanks to [Thomas Billiet](https://github.com/JodusNodus))
 - [x] [photon.sh](https://photon.sh/demo?language=javascript&theme=oceanic-next) (thanks to [Félix Sanz](https://github.com/felixsanz))
+- [x] [Hyper](https://github.com/robinbentley/hyper-oceanic-next) (thanks to [Robin Bentley](https://github.com/robinbentley))
 
 
 You may also look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next) - This project generates the Oceanic Next color scheme for a variety of text editors using base16-builder.
