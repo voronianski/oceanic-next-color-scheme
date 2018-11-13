@@ -108,12 +108,7 @@ base 0F: #AB7967
 ## Companion Sublime UI Themes
 
 - [Broceanic](https://github.com/kenwheeler/broceanic-theme) by [Ken Wheeler](https://github.com/kenwheeler)
-
-<img src="https://camo.githubusercontent.com/c98146a299659dffae2478535456712a088a9ee6/687474703a2f2f692e696d6775722e636f6d2f526c50545051322e706e67" width="350" />
-
 - [El Capitan](https://github.com/iccir/El-Capitan-Theme) by [Ricci Adams](https://github.com/iccir)
-
-<img src="https://camo.githubusercontent.com/7cb0e0e2931c93df4a52432a1de2bf8e909cadd2/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f3130303436333031312f656c2d6361706974616e2d776974682d6f6365616e69632d6e6578742e706e67" width="350" />
 
 Suggest your best looking UI themes with Oceanic Next (screenshots are welcome) in this [thread](https://github.com/voronianski/oceanic-next-color-scheme/issues/2).
 
