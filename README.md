@@ -4,7 +4,7 @@
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/Oceanic%20Next%20Color%20Scheme.svg?color=50C32E)](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 [![PayPal](https://camo.githubusercontent.com/e14c85b542e06215f7e56c0763333ef1e9b9f9b7/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e6174655f534d2e676966)](https://www.paypal.me/voronianski/5)
 
-> Colorful Sublime Text 2/3 color scheme optimized for [babel-sublime](https://github.com/babel/babel-sublime) (also known as **6to5-sublime**) JavaScript syntax highlighter.
+> Colorful Sublime Text 2/3 color scheme optimized for [babel-sublime](https://github.com/babel/babel-sublime) JavaScript syntax highlighter.
 
 [<img src="https://cloud.githubusercontent.com/assets/15828926/24619500/5ace50f2-18c4-11e7-9c40-7a247528f99d.png" width="500" />
 ](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
@@ -12,19 +12,6 @@
 ## Install
 
 Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) or just manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS). Then select it from `Preferences` `->` `Color Scheme` `->` `User`.
-
-### How to Activate UI Theme
-
-To activate the UI theme and color scheme adding the following settings to your sublime user preferences file. The user preferences file can be found using the menu item Sublime Text -> Preferences -> Settings - User (⌘, on Mac).
-
-**Note: Don't forget to restart Sublime Text after activating the theme.**
-
-```json
-{
-  "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
-  "theme": "Oceanic Next.sublime-theme"
-}
-```
 
 ### Other Editors
 
@@ -49,10 +36,7 @@ _Oceanic Next_ was also ported to:
 - [x] [photon.sh](https://photon.sh/demo?language=javascript&theme=oceanic-next) (thanks to [Félix Sanz](https://github.com/felixsanz))
 - [x] [Hyper](https://github.com/robinbentley/hyper-oceanic-next) (thanks to [Robin Bentley](https://github.com/robinbentley))
 
-
-You may also look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next) - This project generates the Oceanic Next color scheme for a variety of text editors using base16-builder.
-
-_Any volunteers to help with another environments?_
+You may also want to look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next). This project generates the Oceanic Next color scheme for a variety of text editors using `base16-builder`.
 
 ### PowerShell
 
@@ -99,18 +83,16 @@ base 0F: #AB7967
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/extended-class.png)
+[<img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/extended-class.png" width="500" />](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/extended-class.png)
 
 **JSX Components:**
 
-![](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png)
+[<img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png" width="500" />](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png)
 
 ## Companion Sublime UI Themes
 
 - [Broceanic](https://github.com/kenwheeler/broceanic-theme) by [Ken Wheeler](https://github.com/kenwheeler)
 - [El Capitan](https://github.com/iccir/El-Capitan-Theme) by [Ricci Adams](https://github.com/iccir)
-
-Suggest your best looking UI themes with Oceanic Next (screenshots are welcome) in this [thread](https://github.com/voronianski/oceanic-next-color-scheme/issues/2).
 
 ## References
 
@@ -122,9 +104,9 @@ If you'd like to add some rules and styles to the theme please do it inside `.YA
 
 ## Showing your appreciation
 
-The best way to show your appreciation for the Oceanic Next Color Scheme remains [contributing](https://github.com/voronianski/oceanic-next-color-scheme#contributing) to the community. But if you'd like to show your appreciation in another way please consider donating through PayPal:
+The best way to show your appreciation for the Oceanic Next Color Scheme remains [contributing](https://github.com/voronianski/oceanic-next-color-scheme#contributing) to the community.
 
-[![PayPal](https://camo.githubusercontent.com/e14c85b542e06215f7e56c0763333ef1e9b9f9b7/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e6174655f534d2e676966)](https://www.paypal.me/voronianski/5)
+If you'd like to show your appreciation in another way please consider donating through PayPal - [![PayPal](https://camo.githubusercontent.com/e14c85b542e06215f7e56c0763333ef1e9b9f9b7/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e6174655f534d2e676966)](https://www.paypal.me/voronianski/5)
 
 ---
 
