@@ -11,7 +11,7 @@
 ## Install
 
 - use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
-- or manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS)
+- or manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path depends on your OS)
 - select scheme from `Sublime Text` `->` `Preferences` `->` `Color Scheme`
 
 ## Screenshot
