@@ -6,17 +6,19 @@
 
 > Colorful Sublime Text 2/3 color scheme optimized for [babel-sublime](https://github.com/babel/babel-sublime) JavaScript syntax highlighter.
 
-[<img src="https://cloud.githubusercontent.com/assets/15828926/24619500/5ace50f2-18c4-11e7-9c40-7a247528f99d.png" width="300" />](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
+[<img src="https://cloud.githubusercontent.com/assets/15828926/24619500/5ace50f2-18c4-11e7-9c40-7a247528f99d.png" width="200" />](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
 
 ## Install
 
-Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) or just manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS). Then select it from `Preferences` `->` `Color Scheme` `->` `User`.
+- use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
+- manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS)
+- select scheme from `Preferences` `->` `Color Scheme`
 
 ## Screenshot
 
 [<img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshot.png" width="600" />](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshot.png)
 
-### Other Editors
+## Other Editors
 
 _Oceanic Next_ was also ported to:
 
@@ -101,9 +103,9 @@ If you'd like to help with development of the color scheme please follow these s
 - generate `.tmTheme` xml file with [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev) for Sublime
 - to inspect scopes inside Sublime you use `Cmd + Alt + P` command (on MacOS)
 
-## Showing your appreciation
+## Support
 
-The best way to show your appreciation for the Oceanic Next Color Scheme remains [contributing](https://github.com/voronianski/oceanic-next-color-scheme#contributing) to the community.
+The best way to show your support for the Oceanic Next Color Scheme remains [contributing](https://github.com/voronianski/oceanic-next-color-scheme#contributing) to the community.
 
 If you'd like to show your appreciation in another way please consider donating through PayPal.
 
