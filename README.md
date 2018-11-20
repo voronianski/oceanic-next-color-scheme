@@ -6,11 +6,15 @@
 
 > Colorful Sublime Text 2/3 color scheme optimized for [babel-sublime](https://github.com/babel/babel-sublime) JavaScript syntax highlighter.
 
-[<img src="https://cloud.githubusercontent.com/assets/15828926/24619500/5ace50f2-18c4-11e7-9c40-7a247528f99d.png" width="500" />](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
+[<img src="https://cloud.githubusercontent.com/assets/15828926/24619500/5ace50f2-18c4-11e7-9c40-7a247528f99d.png" width="300" />](https://dribbble.com/shots/1921103-Oceanic-Next-Theme)
 
 ## Install
 
 Use [Package Control](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) or just manually copy `Oceanic Next.tmTheme` file into `/Packages/User` directory (path to it depends on your OS). Then select it from `Preferences` `->` `Color Scheme` `->` `User`.
+
+## Screenshot
+
+[<img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshot.png" width="600" />](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshot.png)
 
 ### Other Editors
 
@@ -79,14 +83,6 @@ base 0D: #6699CC
 base 0E: #C594C5
 base 0F: #AB7967
 ```
-
-## Screenshots
-
-[<img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/extended-class.png" width="600" />](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/extended-class.png)
-
-**JSX Components:**
-
-[<img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png" width="600" />](https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/screenshots/jsx-component.png)
 
 ## Companion Sublime UI Themes
 

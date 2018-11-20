@@ -1,21 +1,26 @@
 import a from 'b';
 
+const dep = require('dep');
 const URL = 'https://example.org';
-const mod = require('mod');
 
 let foo = 'bar';
 foo = 2;
 foo = `simple literal with ${mod}`;
-
-var dodo = true;
-dodo = false;
-dodo = `more
+foo = `more
 complicated literal
 with ${mod}
 `;
 
+var bool = true;
+bool = false;
+
+let undef = undefined;
+undef = void 0;
+undef = void(0);
+undef = null;
+
 const obj = {
-  simple: 'test',
+  str: 'test',
   simpleVar: foo,
   'str': 'value',
   [dynamic]: true,
@@ -35,54 +40,7 @@ const obj = {
 
 console.log(obj.simple, obj['another-str'], obj.fn());
 
-let undef = undefined;
-undef = void 0;
-undef = void(0);
-
-const n = null;
-
-console.log(String, Boolean, Number, Object, Array);
-
-class App extends React.Component {
-  static defaultProps = {
-    auto: true
-  };
-
-  static propTypes = {
-    auto: PropTypes.bool.isRequired,
-    obj: PropTypes.shape({
-      foo: PropTypes.string.isRequired
-    })
-  }
-
-  render() {
-    return (
-      <div className="wrap">
-        <TestChild
-          propNum={2}
-          propVar={foo}
-          propObj={{a: 1, b: 'c', d: false}}
-          propStr="value"
-          propArr={[1, 'a', true]}
-        />
-      </div>
-    );
-  }
-
-  otherMethod() {
-    function innerFn(argument) {
-      // body...
-    }
-
-    innerFn();
-  }
-}
-
 function doSmth (a, b, c, ...more) {
-  if (isNaN(b)) {
-    return;
-  }
-
   for (let i = 0; i < more.length; i++) {
     console.log(i);
   }
@@ -93,7 +51,9 @@ function doSmth (a, b, c, ...more) {
 }
 
 const doSmthAsyncBefore = async () => {
-  return [].reduce(memo => memo.push(Array.isArray(memo)), []);
+  setTimeout(() => {
+    console.log('async fn')
+  }, 1000) ;
 }
 
 async function doSmthAsync(a = 1, b = '2', c = false, d = {}) {
@@ -126,7 +86,6 @@ class MyClass {
 export function annotation(target) {
   target.annotated = true;
 }
-
 
 function OldSchoolClass (opts = {}) {
   return this;
