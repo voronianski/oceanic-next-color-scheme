@@ -99,7 +99,11 @@ Theme is inspired by [Base16 Ocean Dark Theme](https://github.com/carloe/spacegr
 
 ## Contributing
 
-If you'd like to add some rules and styles to the theme please do it inside `.YAML-tmTheme` file. Then `.tmTheme` xml can be generated with such tool as [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev) for Sublime.
+If you'd like to help with development of the color scheme please follow these simple rules:
+
+- add new styles to the theme inside `.YAML-tmTheme` file
+- generate `.tmTheme` xml file with [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev) for Sublime
+- to inspect scopes inside Sublime you use `Cmd + Alt + P` command (on MacOS)
 
 ## Showing your appreciation
 

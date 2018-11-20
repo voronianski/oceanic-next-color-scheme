@@ -186,20 +186,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>entity.name.method.js</string>
+			<string>Object keys</string>
 			<key>scope</key>
-			<string>entity.name.method.js</string>
+			<string>meta.group.braces.curly.js constant.other.object.key.js string.unquoted.label.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D8DEE9</string>
+				<string>#CDD3DE</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>meta.method.js</string>
+			<string>Class methods</string>
 			<key>scope</key>
-			<string>meta.class-method.js entity.name.function.js, variable.function.constructor</string>
+			<string>meta.class-method.js entity.name.function.js, variable.function.constructor, meta.class.js meta.class.property.js meta.method.js string.unquoted.js entity.name.function.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

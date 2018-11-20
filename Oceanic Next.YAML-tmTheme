@@ -95,13 +95,14 @@ settings:
     foreground: '#EC5F67'
     fontStyle: italic
 
-- name: entity.name.method.js
-  scope: entity.name.method.js
+- name: Object keys
+  scope: meta.group.braces.curly.js constant.other.object.key.js string.unquoted.label.js
   settings:
-    foreground: '#D8DEE9'
+    foreground: '#CDD3DE'
 
-- name: meta.method.js
-  scope: meta.class-method.js entity.name.function.js, variable.function.constructor
+- name: Class methods
+  scope: meta.class-method.js entity.name.function.js, variable.function.constructor,
+    meta.class.js meta.class.property.js meta.method.js string.unquoted.js entity.name.function.js
   settings:
     foreground: '#D8DEE9'
 
