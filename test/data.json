@@ -1,0 +1,49 @@
+{
+  "str": "value",
+  "num": 2,
+  "bool": true,
+  "arr": ["a", 2, false],
+  "level-1": {
+    "str": "value",
+    "num": 2,
+    "bool": true,
+    "arr": ["a", 2, false],
+    "level-2": {
+      "str": "value",
+      "num": 2,
+      "bool": true,
+      "arr": ["a", 2, false],
+      "level-3": {
+        "str": "value",
+        "num": 2,
+        "bool": true,
+        "arr": ["a", 2, false],
+        "level-4": {
+          "str": "value",
+          "num": 2,
+          "bool": true,
+          "arr": ["a", 2, false],
+          "level-5": {
+            "str": "value",
+            "num": 2,
+            "bool": true,
+            "arr": ["a", 2, false],
+            "level-6": {
+              "str": "value",
+              "num": 2,
+              "bool": true,
+              "arr": ["a", 2, false],
+              "level-7": {
+                "str": "value",
+                "num": 2,
+                "bool": true,
+                "arr": ["a", 2, false],
+                "level-8": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
