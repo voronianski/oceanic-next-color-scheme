@@ -1,8 +1,8 @@
 # Oceanic Next Color Scheme
 
 [![GitHub Tags](https://img.shields.io/github/tag/voronianski/oceanic-next-color-scheme.svg)](https://github.com/voronianski/oceanic-next-color-scheme/tags)
-[![Package Control](https://packagecontrol.herokuapp.com/downloads/Oceanic%20Next%20Color%20Scheme.svg?color=50C32E)](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
-[![PayPal](https://camo.githubusercontent.com/e14c85b542e06215f7e56c0763333ef1e9b9f9b7/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e6174655f534d2e676966)](https://www.paypal.me/voronianski/5)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Oceanic%20Next%20Color%20Scheme.svg?color=50C32E)](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) <a href="https://www.buymeacoffee.com/voronianski" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<!-- [![PayPal](https://camo.githubusercontent.com/e14c85b542e06215f7e56c0763333ef1e9b9f9b7/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e6174655f534d2e676966)](https://www.paypal.me/voronianski/5) -->
 
 > Colorful Sublime Text 2/3 color scheme optimized for [babel-sublime](https://github.com/babel/babel-sublime) JavaScript syntax highlighter.
 
@@ -95,7 +95,7 @@ base 0F: #AB7967
 
 Theme is inspired by [Base16 Ocean Dark Theme](https://github.com/carloe/spacegray-base16-ocean-dark) which was my long time favorite and based on [Oceanic Eighties Color Scheme](https://github.com/memco/Oceanic-tmTheme).
 
-## Contributing
+## Development
 
 If you'd like to help with development of the color scheme please follow these simple rules:
 
@@ -105,9 +105,9 @@ If you'd like to help with development of the color scheme please follow these s
 
 ## Support
 
-The best way to show your support for the Oceanic Next Color Scheme remains [contributing](https://github.com/voronianski/oceanic-next-color-scheme#contributing) to the community.
+<a href="https://www.buymeacoffee.com/voronianski" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-If you'd like to show your appreciation in another way please consider donating through PayPal.
+or consider donating through PayPal -
 
 [![PayPal](https://camo.githubusercontent.com/e14c85b542e06215f7e56c0763333ef1e9b9f9b7/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e6174655f534d2e676966)](https://www.paypal.me/voronianski/5)
 
