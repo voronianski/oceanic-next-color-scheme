@@ -23,7 +23,7 @@
 _Oceanic Next_ was also ported to:
 
 - [x] [Atom Editor](https://atom.io/themes/oceanic-next) (thanks to [Steve Lombardi](https://github.com/smlombardi)).
-- [x] [Vim](https://github.com/chriskempson/base16-builder) (thanks to [Chris Kempson](https://github.com/chriskempson))
+- [x] [Vim](https://github.com/chriskempson/base16-vim) (thanks to [Chris Kempson](https://github.com/chriskempson))
 - [x] [NeoVim](https://github.com/mhartington/oceanic-next) (thanks to [Mike Hartington](https://github.com/mhartington))
 - [x] [XCode](https://github.com/dmcrodrigues/Oceanic-Next-Xcode-Theme) (thanks to [David Rodrigues](https://github.com/dmcrodrigues))
 - [x] [iTerm2](https://github.com/mhartington/oceanic-next-iterm) (thanks to [Mike Hartington](https://github.com/mhartington))
