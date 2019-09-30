@@ -63,7 +63,7 @@ _Oceanic Next_ inspired another schemes which extend syntax or change some of it
 
 ## Color Palette
 
-There is a list of colors used in _Oceanic Next_. Check it before porting the color scheme to another environments.
+There is a list of colors used in _Oceanic Next_. Check it before porting the color scheme to another environment.
 
 <img src="https://raw.githubusercontent.com/voronianski/oceanic-next-theme/master/colors.png" width="350" />
 
