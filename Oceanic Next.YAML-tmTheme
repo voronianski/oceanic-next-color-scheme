@@ -17,6 +17,7 @@ settings:
 - settings:
     background: '#1B2B34'
     caret: '#c0c5ce'
+    blockCaret: '#c0c5ce'
     foreground: '#CDD3DE'
     invisibles: '#65737e'
     lineHighlight: '#65737e55'
