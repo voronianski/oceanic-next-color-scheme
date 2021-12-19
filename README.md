@@ -41,6 +41,7 @@ _Oceanic Next_ was also ported to:
 - [x] [photon.sh](https://photon.sh/demo?language=javascript&theme=oceanic-next) (thanks to [Félix Sanz](https://github.com/felixsanz))
 - [x] [Hyper](https://github.com/robinbentley/hyper-oceanic-next) (thanks to [Robin Bentley](https://github.com/robinbentley))
 - [x] [Windows Terminal](https://github.com/tobark/oceanic-next-windows-terminal) (thanks to [Yi Hyunjoon](https://github.com/tobark))
+- [x] [Alacritty](https://github.com/eendroroy/alacritty-theme/blob/master/themes/oceanic_next.yaml) (thanks to [indrajit](https://github.com/eendroroy))
 
 You may also want to look at [base16-oceanic-next](https://github.com/wbinnssmith/base16-oceanic-next). This project generates the Oceanic Next color scheme for a variety of text editors using `base16-builder`.
 
